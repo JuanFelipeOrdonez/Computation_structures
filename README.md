@@ -1,2 +1,2 @@
-# Computation_structures
-This is the repository to develop the course of computation structures.
+# Comp_structures_2023_JM
+Reepository made for computational  structures projects
